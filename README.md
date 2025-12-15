@@ -5,7 +5,7 @@
 ---
 
 ## About Me
-I’m a software engineer passionate about building reliable, maintainable systems and shipping value quickly. I enjoy mentoring, open source, and turning complex problems into simple, usable solutions.
+I’m a software engineering student passionate about building reliable, maintainable systems and shipping value quickly. I enjoy mentoring, open source, and turning complex problems into simple, usable solutions.
 
 - 🌱 Learning: Full Stack development(Mern) and AI/ML , developer tools  
 - 💬 Ask me about: Frontend,Backend and Python
@@ -15,19 +15,11 @@ I’m a software engineer passionate about building reliable, maintainable syste
 
 ## Skills
 - Languages: JavaScript, Python ,Java,C,Php
-- Backend: Node.js, Express, gRPC, REST, PostgreSQL,MongoDb  
+- Backend: Node.js, Express, REST, PostgreSQL,MongoDb ,Mysql
 - Frontend: React, Next.js, Tailwind CSS  
 - Cloud & DevOps: AWS, Docker, Kubernetes, Terraform, CI/CD  
-- Other: Testing, Observability (Prometheus, Grafana), Clean Architecture
-
+  
 ---
-
-## Featured Projects
-   xxxxNonexxxxx
-
-
----
-
 ## How I Work
 - I value clarity: clear interfaces, readable code, and well-documented APIs.  
 - I prefer small, frequent releases and strong automated tests.  
